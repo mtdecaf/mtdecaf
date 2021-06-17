@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mtdecaf;
 - 👀 I’m interested in Web Development and Design;
 - 🌱 I’m currently learning Javascript frameworks, SASS, and graphic design;
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m not currently looking to collaborate;
 - 📫 How to reach me ...
 
 <!---
